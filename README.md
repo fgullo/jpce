@@ -6,6 +6,7 @@
 The software contains an implementation of  algorithms for PCE, which were originally defined and described in the peer-reviewed scientific publications reported below.<br>
 As unestablished research software, this code is provided on an “as is” basis without warranty of any kind, either expressed or implied. The downloading, or execution of any part of this software constitutes an implicit agreement to these terms. These terms and conditions are subject to change at any time without prior notice.
 
+
 <strong>TERMS OF USAGE:</strong>
 The following papers should be cited in any research product whose findings are based on the code here distributed:
 
@@ -24,3 +25,6 @@ Proc. 2011 ACM SIGMOD Int. Conf. on Management of Data (SIGMOD), pp. 733-744. At
 - F. Gullo, C. Domeniconi, A. Tagarelli.<br>
 [Enhancing Single-Objective Projective Clustering Ensembles](https://doi.org/10.1109/ICDM.2010.138).<br>
 Proc. 10th IEEE Int. Conf. on Data Mining (ICDM), pp. 833-838. Sydney, Australia, December 14-17, 2010.
+<p>
+
+For instructions on how to install and run the software please see JPCE.pdf.
